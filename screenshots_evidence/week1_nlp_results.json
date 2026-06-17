@@ -1,0 +1,51 @@
+[
+  {
+    "text": "I feel really anxious and mentally exhausted after a long week",
+    "emotion": "fear",
+    "confidence": 0.994,
+    "genres": [
+      "Horror",
+      "Thriller",
+      "Mystery"
+    ]
+  },
+  {
+    "text": "I am so happy and excited, everything is going great today!",
+    "emotion": "joy",
+    "confidence": 0.985,
+    "genres": [
+      "Comedy",
+      "Animation",
+      "Musical"
+    ]
+  },
+  {
+    "text": "I am furious about what happened, I cannot calm down",
+    "emotion": "anger",
+    "confidence": 0.987,
+    "genres": [
+      "Action",
+      "Thriller",
+      "Crime"
+    ]
+  },
+  {
+    "text": "I feel quite sad and lonely, nothing seems right",
+    "emotion": "sadness",
+    "confidence": 0.99,
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  {
+    "text": "I want something totally unexpected and mind-blowing tonight",
+    "emotion": "surprise",
+    "confidence": 0.88,
+    "genres": [
+      "Mystery",
+      "Sci-Fi",
+      "Adventure"
+    ]
+  }
+]
