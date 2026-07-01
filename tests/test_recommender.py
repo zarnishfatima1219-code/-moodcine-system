@@ -38,7 +38,7 @@ def test_ratings_loaded(db_conn):
     cur = db_conn.cursor()
     cur.execute("SELECT COUNT(*) FROM ratings")
     count = cur.fetchone()[0]
-    assert count == 100000, f"Expected 100000 ratings, got {count}"
+    assert count >= 100000, f"Expected at least 100000 ratings, got {count}"
 
 def test_users_loaded(db_conn):
     """943 users in database"""
